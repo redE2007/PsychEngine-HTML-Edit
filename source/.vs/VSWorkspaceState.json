@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\editors",
+    "\\openfl",
+    "\\options"
   ],
-  "SelectedNode": "\\Main.hx",
+  "SelectedNode": "\\InputFormatter.hx",
   "PreviewInSolutionExplorer": false
 }
